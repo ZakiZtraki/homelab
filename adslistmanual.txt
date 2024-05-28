@@ -1,2 +1,0 @@
-(\.|^).afcdn\.net$
-(\.|^).magsrv\.com$
