@@ -1,2 +1,2 @@
-https://s3t3d2y8.afcdn.net
-https://s.magsrv.com
+(\.|^).afcdn\.net$
+(\.|^).magsrv\.com$
